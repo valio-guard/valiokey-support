@@ -1,6 +1,6 @@
 # ValioKey
 
-A zero-knowledge password manager for iPhone.
+A zero-knowledge password manager for iPhone, with a companion extension for Chrome.
 
 The planned small TestFlight beta is free, requires iOS 27 or later, and will use private invitations. Use made-up test logins only: do not store real passwords in this beta.
 
